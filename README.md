@@ -61,3 +61,4 @@ I generally prefer simple, maintainable and performance-conscious solutions over
 
 - LinkedIn: <https://www.linkedin.com/in/bruno-moreira-guedes/>
 - Email: <mailto:brunomoreiraguedesbusinessconsultant@outlook.com>
+- Other emails: codeagain@codeagain.dev, code@outbru.dev, me@outbru.dev, me@bruno.today, code@bruno.today
