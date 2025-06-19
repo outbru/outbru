@@ -32,6 +32,19 @@ This profile now exists mostly as an archive of previous projects and interests 
 - LinkedIn: <https://www.linkedin.com/in/bruno-moreira-guedes/>
 - Medium: <https://medium.com/@bruno_moreira-guedes>
 - Email: <mailto:brunomoreiraguedesbusinessconsultant@outlook.com>
-- Other emails: codeagain@codeagain.dev, code@outbru.dev, me@outbru.dev, me@bruno.today, code@bruno.today
+- Other emails: codeagain@codeagain.dev, code@outbru.dev, me@outbru.dev, me@bruno.today, code@bruno.today, code@brunodOut.dev, brunodOut.dev@gmail.com
+
+# Also Known As
+I am also known as the following names:
+- Bru Moreira-Guedes
+- Bruno Moreira-Guedes
+- Bru Moreira Guedes
+- Bruno Moreira Guedes
+
+And nicknames:
+- outbru
+- brunodout
+- bruno.today
+- codeagain
 
 ---
